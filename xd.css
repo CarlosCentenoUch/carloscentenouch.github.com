@@ -1,0 +1,18 @@
+p{font-family:Cooper Black, "Times New Roman",Times,serif;
+color:Black;
+background-color:#FFFFFF;
+margin-right: 80px;margin-left: 80px}
+h1{font-family:"Cooper Black";color:purple;text-align: center;background-color:#FFFFFF; margin-right: 300px; margin-left: 300px;}
+h2{background-color:#FFFFFF; margin-right: 300px; margin-left: 300px;}
+h3{background-color:#FFFFFF; margin-right: 400px; margin-left: 400px;}
+h4{background-color:#FFFFFF; margin-right: 400px; margin-left: 400px;}
+body{background:pink; background-image: url('fondo.jpg');}
+table{border-collapse:separate;
+border:purple 5px solid;
+}
+th{border-collapse:separate;border:black 2px solid;background-color:#64d1c4}
+td{border-collapse:separate;border:black 2px solid;}
+td{
+text-align: center;
+background-color: #4CAF50;
+}
